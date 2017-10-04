@@ -828,7 +828,7 @@ function initializeRichMarker() {
     };
 }
 
-let cache = {};
+var cache = {};
 /**
  * Memoizes a function
  *
